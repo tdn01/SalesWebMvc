@@ -8,10 +8,8 @@ C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_Entit
 C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
 C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
-C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
 C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
 C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
-C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
 C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
 C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs
 C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.input.cache
@@ -34,3 +32,6 @@ C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_Entit
 C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
+C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\tiago\Documents\Informatica\Curso C#\C# udemy\19_ASP_NET_Core_MVC_EntityFramework\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
